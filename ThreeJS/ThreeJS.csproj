@@ -89,7 +89,7 @@
     <Content Include="js\orbitControls.js" />
     <Content Include="js\moveCamera.js" />
     <Content Include="content\grasslight-big.jpg" />
-    <Content Include="index.html" />
+    <Content Include="main.html" />
     <Content Include="html\orbitControls.html" />
     <Content Include="Scripts\ammo.js" />
     <Content Include="Scripts\FlyControls.js" />
